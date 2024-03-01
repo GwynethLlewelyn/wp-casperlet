@@ -1,0 +1,5 @@
+{
+  "editor.default_syntax" : "php",
+  "genealabs.phpcs.debugging" : true,
+  "genealabs.phpcs.executablePath" : "\/Users\/gwyneth\/Developer\/WordPress Plugins\/wp-casperlet\/vendor\/bin\/phpcs"
+}
